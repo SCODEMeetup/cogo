@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "Bikeshare ID": 61
-        "Name": "Thurman Ave and Bruck St",
+        "Bikeshare ID": 61,
+        "Site Name": "Thurman Ave and Bruck St",
         "Docks": "15"
       }
     }
