@@ -17,7 +17,26 @@
         "ID": 1,
         "Station Name": "Bicentennial Park",
         "Total Docks": "19",
-        "Status": "in Service"
+        "Status": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.004246,
+          39.96286
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bicycle",
+        "marker-color": "#E31B23",
+        "stroke": "#F18D91",
+        "ID": 2,
+        "Station Name": "City Hall",
+        "Total Docks": "11",
+        "Status": "In Service"
       }
     }
   ]
